@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/mrmrs/colors-less/issues"
   },
-  "homepage": "https://github.com/mrmrs/colors-less#readme"
+  "homepage": "https://github.com/mrmrs/colors-less#readme",
+  "devDependencies": {
+    "less": "^2.5.3"
+  }
 }
