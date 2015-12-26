@@ -4,7 +4,7 @@
   "description": "Better default colors for the web",
   "main": "css/colors.css",
   "scripts": {
-    "start": ""
+    "start": "lessc less/colors.less css/colors.css && lessc --clean-css less/colors.less css/colors.min.css"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/mrmrs/colors-less#readme",
   "devDependencies": {
-    "less": "^2.5.3"
+    "less": "^2.5.3",
+    "less-plugin-clean-css": "^1.5.1"
   }
 }
