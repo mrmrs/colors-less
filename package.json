@@ -1,0 +1,24 @@
+{
+  "name": "colors-less",
+  "version": "1.0.0",
+  "description": "Better default colors for the web",
+  "main": "css/colors.css",
+  "scripts": {
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrmrs/colors-less.git"
+  },
+  "keywords": [
+    "less",
+    "css",
+    "colors"
+  ],
+  "author": "mrmrs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrmrs/colors-less/issues"
+  },
+  "homepage": "https://github.com/mrmrs/colors-less#readme"
+}
