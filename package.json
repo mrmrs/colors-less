@@ -1,6 +1,6 @@
 {
   "name": "colors-less",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Better default colors for the web",
   "main": "css/colors.css",
   "scripts": {
